@@ -44,7 +44,7 @@ In this notebook, I apply time series analysis and modeling to determine whether
    *The ARMA and ARIMA models are not reliable to use for trading because the p-values are higher than 0.05 (> 0.05) which is not statistically significant and we cannot dismiss the null hypothesis. Therefore, I would not feel confident in basing my trading decisions on just these models.*
 
 
-### Linear Regression Forecasting
+### Linear Regression Modeling
 
 In this notebook, I built a Scikit-Learn linear regression model to predict Yen futures ("settle") returns with *lagged* Yen futures returns and categorical calendar seasonal effects.
 
