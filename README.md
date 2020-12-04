@@ -1,6 +1,6 @@
 # Japanese Yen Futures
 
-![Yen Photo](Images/adobe_stock.jpg)
+![Yen Photo](Images/adobe_stock.jpeg)
 
 ## Background
 
